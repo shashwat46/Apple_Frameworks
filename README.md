@@ -2,7 +2,7 @@
 
 An iOS application showcasing Apple frameworks in a grid view, built with SwiftUI. Users can explore various frameworks, view detailed descriptions, and access additional information through embedded Safari links.
 
-<img src = "Simulator Screen Recording - iPhone 14 Pro - 2024-11-06 at 16.33.48.gif" width = "400" height = "800"/>
+<img src = "Simulator Screen Recording - iPhone 14 Pro - 2024-11-06 at 16.33.48.gif" width = "300" height = "600"/>
 
 ## Features ✨
 
